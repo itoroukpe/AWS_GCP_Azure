@@ -1,3 +1,4 @@
+```
 <!-- index.html -->
 <!DOCTYPE html>
 <html lang="en">
@@ -64,3 +65,4 @@ async function addTask() {
 }
 
 document.addEventListener("DOMContentLoaded", fetchTasks);
+```
