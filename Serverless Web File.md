@@ -16,7 +16,9 @@
     <script src="script.js"></script>
 </body>
 </html>
-
+```
+---
+```
 /* styles.css */
 body {
     font-family: Arial, sans-serif;
@@ -39,7 +41,9 @@ button {
 button:hover {
     background-color: #218838;
 }
-
+```
+---
+```
 /* script.js */
 async function fetchTasks() {
     const response = await fetch("<API_GATEWAY_URL>/tasks");
